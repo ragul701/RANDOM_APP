@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ragul",
+      "username": "ragul123",
+      "email": "ragul@test.com"
+    },
+    {
+      "id": 2,
+      "name": "Kumar",
+      "username": "kumar007",
+      "email": "kumar@test.com"
+    },
+    {
+      "id": 3,
+      "name": "Vijay",
+      "username": "vijaypro",
+      "email": "vijay@test.com"
+    }
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "React Learning",
+      "body": "Learning React step by step"
+    },
+    {
+      "id": 2,
+      "title": "JSON Server",
+      "body": "Backend created using json-server"
+    }
+  ],
+
+  "comments": [
+    {
+      "id": 1,
+      "text": "Nice project"
+    },
+    {
+      "id": 2,
+      "text": "Super da"
+    }
+  ]
+}
